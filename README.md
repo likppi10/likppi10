@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20b2aa&text=SeokGyu's%20GIT&fontAlign=80&fontSize=40&fontColor=009999)
-<h3 align = center><b>⚙️  Tech Stack ⚙️ </h3>
+<h2 align = center><b>⚙️  Tech Stack ⚙️ </h2>
 <p align = center>
     <img src="http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
     <img src="http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
