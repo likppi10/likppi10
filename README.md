@@ -1,8 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20b2aa&text=SeokGyu's%20GIT&fontAlign=80&fontSize=40&fontColor=009999)
-## ⚙️  Tech Stack ⚙️ 
-![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
-![Tech Blog Badge](http://img.shields.io/badge/-Spring-b4eeb4?style=flat-square&logo=Spring) ![Tech Blog Badge](http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot) ![Tech Blog Badge](http://img.shields.io/badge/-MySQL-0eafc1?style=flat-square&logo=MySQL) ![Tech Blog Badge](http://img.shields.io/badge/-FireBase-990000?style=flat-square&logo=FireBase) 
-![Tech Blog Badge](http://img.shields.io/badge/-Html5-ff8000?style=flat-square&logo=Html5)![Tech Blog Badge](http://img.shields.io/badge/-CSS3-ffe599?style=flat-square&logo=CSS3) ![Tech Blog Badge](http://img.shields.io/badge/-Vue.js-00ced1?style=flat-square&logo=Vue.js)
+<h3 align = center><b>⚙️  Tech Stack ⚙️ </h3>
+<p align = center>
+    <img src="http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+    <br>
+    <img src="http://img.shields.io/badge/-Spring-b4eeb4?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-MySQL-0eafc1?style=flat-square&logo=MySQL"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-FireBase-990000?style=flat-square&logo=FireBase"/></a>&nbsp
+    <br>
+    <img src="http://img.shields.io/badge/-Html5-ff8000?style=flat-square&logo=Html5"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-CSS3-ffe599?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-Vue.js-00ced1?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
+</p>
+
 | Proficiency | Plugin | Stack |
 | ------ | ------ | ------ |
 | 4 | 대규모 프로그램을 참고사항 없이 개발할 수 있으며, 일반적이지 않은 부분도 참고를 통해 개발할 수 있음 | - |
