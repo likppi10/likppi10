@@ -66,7 +66,7 @@
   <summary>JetPack</summary> 
   
    - Lifecycle
-   - DataBinding
+   - [DataBinding](https://github.com/likppi10/DataBinding)
    - Room
    - Navigation
    - ViewModel
