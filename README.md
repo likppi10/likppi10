@@ -46,7 +46,7 @@
 <details> 
   <summary>SNS Join/Login</summary> 
   
-   - SNS Join/Login  
+   - [SNS Join/Login](https://github.com/likppi10/SNS-Join-Login/tree/main)
 </details>
 <details> 
   <summary>Firebase</summary> 
