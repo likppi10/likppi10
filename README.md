@@ -76,7 +76,7 @@
 <details> 
   <summary>Architecture Pattern</summary> 
   
-   - MVC MVP MVVM
+   - [MVC MVP MVVM](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
    - [DataBinding](https://github.com/likppi10/DataBinding)
    - MVVM
    - [MVI](https://github.com/likppi10/MVI)
