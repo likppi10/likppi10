@@ -73,6 +73,17 @@
    - LiveData
    - Notifications
 </details>
+<details> 
+  <summary>Architecture Pattern</summary> 
+  
+   - MVC MVP MVVM
+   - [DataBinding](https://github.com/likppi10/DataBinding)
+   - MVVM
+   - [MVI](https://github.com/likppi10/MVI)
+   - Clean Architecture
+   - Organize
+</details>
+
 
 ## ✉️ Email 
 ![Tech Blog Badge](http://img.shields.io/badge/-likppi100@naver.com-999090?style=flat-square&logo=Naver)
