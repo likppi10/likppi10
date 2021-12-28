@@ -79,7 +79,7 @@
    - [MVC MVP MVVM](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
    - [DataBinding](https://github.com/likppi10/DataBinding)
    - [MVVM](https://github.com/likppi10/MVVM/tree/main)
-   - MVVM++
+   - [MVVM++](https://github.com/likppi10/MVVM-/tree/main)
    - [MVI](https://github.com/likppi10/MVI)
    - Clean Architecture
    - Organize
