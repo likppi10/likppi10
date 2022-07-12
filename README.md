@@ -31,8 +31,10 @@
     - 6월~12월 : [조치원수호대](https://github.com/tnvnfdla1214/homemade_guardian)
 * 2021
     - 1월~2월 : [말랑(커플다이어리)](https://github.com/tnvnfdla1214/Malang)
-    - 6월~ : SSAFY 6기 Mobile Track 
+    - 7월~ : SSAFY 6기 Mobile Track 
 * 2022 
+    - ~6월 : SSAFY 6기 Mobile Track 
+    - 7~   : Nexterz 21기 안드로이드 
 ---
 ## 📜 Android Essential Stack 
 
