@@ -18,8 +18,8 @@
 | Proficiency | Plugin | Stack |
 | ------ | ------ | ------ |
 | 4 | 대규모 프로그램을 참고사항 없이 개발할 수 있으며, 일반적이지 않은 부분도 참고를 통해 개발할 수 있음 | - |
-| 3 | 중간규모 프로그램 및 시스템을 개발할수 있으며, 주요 이슈 트러블슈팅을 할 수 있고 내부구조에 대해 이해하고 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java) ![Tech Blog Badge](http://img.shields.io/badge/-FireBase-990000?style=flat-square&logo=FireBase)|
-| 2 | 시스템 동작 방식을 알고 있으며, 기본적인 기능을 구현할 수 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin) ![Tech Blog Badge](http://img.shields.io/badge/-MySQL-0eafc1?style=flat-square&logo=MySQL) |
+| 3 | 중간규모 프로그램 및 시스템을 개발할수 있으며, 주요 이슈 트러블슈팅을 할 수 있고 내부구조에 대해 이해하고 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin) ![Tech Blog Badge](http://img.shields.io/badge/-FireBase-990000?style=flat-square&logo=FireBase)|
+| 2 | 시스템 동작 방식을 알고 있으며, 기본적인 기능을 구현할 수 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java) ![Tech Blog Badge](http://img.shields.io/badge/-MySQL-0eafc1?style=flat-square&logo=MySQL) |
 | 1 | 코드를 읽을 수 있으며, 책을 참고하여 약간의 수정작업 또는 작은 변경사항 추가를 할 수 있음 |-|
 
 ## 🎞 Project, Activity🖇
