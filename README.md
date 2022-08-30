@@ -32,7 +32,11 @@
 * 2021
     - 1월~2월 : [말랑(커플다이어리)](https://github.com/tnvnfdla1214/Malang)
     - 7월~ : SSAFY 6기 Mobile Track 
+    - 11월 : [싸피터치(SsafyTouch)] : 포트폴리오에서 확인해주세요.
 * 2022 
+    - 2월~3월 : [롤링픽쳐스(RollingPictures)] : 포트폴리오에서 확인해주세요.
+    - 3월~4월 : [부끄럽(BookLove)](https://github.com/likppi10/BookLove)
+    - 4월~5월 : [도담도담(DodamDodam)](https://github.com/likppi10/DodamDodam_)
     - ~6월 : SSAFY 6기 Mobile Track 
     - 7월~   : Nexterz 21기 안드로이드 
 ---
