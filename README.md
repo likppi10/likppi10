@@ -36,7 +36,7 @@
 * 2022 
     - 2월~3월 : [롤링픽쳐스(RollingPictures)](https://github.com/SSAFY-GUMI-FireChicken/RollingPictures)
     - 3월~4월 : [부끄럽(BookLove)](https://github.com/likppi10/BookLove)
-    - 4월~5월 : [도담도담(DodamDodam)](https://github.com/likppi10/DodamDodam_)
+    - 4월~5월 : [도담도담(DodamDodam)](https://github.com/ChanggiJeon/dodamdodam)
     - ~6월 : SSAFY 6기 Mobile Track 
     - 7월~   : Nexterz 21기 안드로이드 
 ---
