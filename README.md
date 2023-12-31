@@ -32,54 +32,17 @@
 * 2021
     - 1월~2월 : [말랑(커플다이어리)](https://github.com/tnvnfdla1214/Malang)
     - 7월~ : SSAFY 6기 Mobile Track 
-    - 11월 : [싸피터치(SsafyTouch)] : 포트폴리오에서 확인해주세요.
+    - 11월 : 싸피터치(SsafyTouch)
 * 2022 
     - 2월~3월 : [롤링픽쳐스(RollingPictures)](https://github.com/SSAFY-GUMI-FireChicken/RollingPictures)
     - 3월~4월 : [부끄럽(BookLove)](https://github.com/likppi10/BookLove)
     - 4월~5월 : [도담도담(DodamDodam)](https://github.com/likppi10/DodamDodam_)
     - ~6월 : SSAFY 6기 Mobile Track 
-    - 7월~   : Nexterz 21기 안드로이드 
+    - 7월~9월  : Nexterz 21기 안드로이드
+* 2023
+    - 7월~9월 : [반다라트(Bandalart)](https://github.com/Nexters/BandalArt-Android.git)
 ---
-## 📜 Android Essential Stack 
 
-<details> 
-  <summary>Android Basic function</summary> 
-  
-   - BroadcastReceiver  
-   - RecyclerView  
-   - Fragment
-</details>
-<details> 
-  <summary>SNS Join/Login</summary> 
-  
-   - [SNS Join/Login](https://github.com/likppi10/SNS-Join-Login/tree/main)
-</details>
-<details> 
-  <summary>Firebase</summary> 
-  
-   - Firebase-Auth
-   - FireStore
-   - Storage
-   - FCM
-</details>
-<details> 
-  <summary>Coroutine</summary> 
-  
-   - Coroutine Concept
-   - Coroutine Tutorial
-</details>
-<details> 
-  <summary>JetPack</summary> 
-  
-   - Lifecycle
-   - [DataBinding](https://github.com/likppi10/DataBinding)
-   - Room
-   - Navigation
-   - ViewModel
-   - LiveData
-   - Notifications
-</details>
-<details> 
   <summary>Architecture Pattern</summary> 
   
    - [MVC MVP MVVM](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
@@ -89,7 +52,6 @@
    - [MVI](https://github.com/likppi10/MVI)
    - Clean Architecture
    - Organize
-</details>
 
 
 ## ✉️ Email 
